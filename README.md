@@ -44,6 +44,8 @@ advanced-statistical-methods
 ├── chapter_4_sunscreen_effect.R
 ├── chapter_5_trex_temperature.R
 ├── chapter_7_black_wheatears.R
+├── chapter_8_2000_presidential_election.R
+├── chapter_9_diet_dropout.R
 ├── chapter_19_diet_dropout.R
 └── README.md
 ```
@@ -215,6 +217,18 @@ For each male bird, researchers recorded:
 Is there an association between immune system strength and the mass of stones carried?
 
 This analysis examines the relationship between these two quantitative variables.
+
+---
+
+# Chapter 8: 2000 Presidential Election Analysis
+
+## Background
+
+This project analyzes voting data from the 2000 U.S. presidential election to determine whether Palm Beach County had an unusually high number of votes for Pat Buchanan. A log-log regression model is used to predict expected vote counts based on other Florida counties. The observed value significantly exceeds the prediction interval, suggesting a statistical anomaly consistent with possible voter confusion.
+
+## Research Question
+
+Is the number of votes for Pat Buchanan in Palm Beach County significantly higher than expected given the relationship between Bush and Buchanan votes in other Florida counties?
 
 ---
 
